@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChristoferTibbelin
 - 👀 I’m interested in Ansible, Python, PowerShell, API, AI
 - 🌱 I’m currently learning MS365, Ansible, Powershell, SASE
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking to collaborate on MS365 integrations
 - 📫 How to reach me, at work
 - ⚡ Fun fact: I have had quite alot of education in ATM (Asynchronous Transfer Mode)
 
